@@ -1,0 +1,6 @@
+runtime/
+preview/
+verification.json
+live-verification.json
+*.exe
+*.db
